@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+svg.size-6 {
+    width: 20px;
+}
